@@ -1,2 +1,2 @@
 this is my demo git repo.
-Author-Pranjal mishra
+Author-Pranjal mishra and someone else
